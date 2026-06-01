@@ -3,3 +3,31 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.container {
+    background-color: #1F2937;
+}
+.navbar {
+    display: flex;
+    margin: 20px 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+}
+.logo {
+    margin-right: auto;
+    font-size: 32px;
+    color: #F9FAF8;
+}
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.nav-links_item {
+    font-size: 18px;
+    color: #e5e7ebb0;
+}
+ul {
+    list-style-type: none;
+}
