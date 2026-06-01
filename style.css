@@ -31,3 +31,22 @@
 ul {
     list-style-type: none;
 }
+
+.hero {
+    display: flex;
+    gap: 60px;
+    margin: 80px 100px ;
+
+}
+.hero-title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+.hero-subtitle {
+    font-size: 18px;
+    color: #e5e7ebb0;
+}
+img {
+    width: 500px;
+}
