@@ -131,3 +131,11 @@ ul {
 .cta-title {
     font-size: 28px;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+.footer-text {
+color: #f9faf8;
+}
